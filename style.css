@@ -572,9 +572,15 @@ th {
 	text-decoration: none;
 }
 
+.class-header{
+	display: flex;
+	flex-direction: row;
+}
+
 .class-header h1{
-	text-decoration: none;
 	color: wheat;
+	font-weight: bold;
+	font-size: clamp(0.6rem, 1vw, 3rem);
 }
 
 .class-header-img{
