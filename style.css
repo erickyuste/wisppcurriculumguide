@@ -79,7 +79,7 @@
 	justify-content: center;
 }
 
-.content-text a{
+.content-text i{
 	color: orange;
 	font-size: clamp(0.1rem, 4vw, 85rem);
 }
