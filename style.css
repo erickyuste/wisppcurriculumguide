@@ -572,6 +572,14 @@ th {
 	text-decoration: none;
 }
 
+.class-header{
+	text-decoration: none;
+	color: wheat;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .subject{
 	font-weight: bold;
 	text-align: center;
