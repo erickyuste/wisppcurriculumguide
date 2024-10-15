@@ -575,6 +575,8 @@ th {
 .class-header{
 	display: flex;
 	flex-direction: row;
+	color: teal;
+	height: auto;
 }
 
 .class-header h1{
@@ -584,7 +586,7 @@ th {
 }
 
 .class-header-img{
-	width: min(20%, 50%); 
+	width: min(15%, 30%); 
 }
 
 
