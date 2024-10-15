@@ -268,21 +268,17 @@ nav svg{
 	color: teal;
 }
 
-.gallerytext h1{
+/* .gallerytext h1{
 	text-align: center;
 	font-size: clamp(1.5rem, 2vw, 4rem);
 	font-weight: bold;
 	padding-left: 20px;
 	padding-right: 20px;
 	color: teal;
-}
-
-.gallerytext i{
-	font-size: clamp(1.5rem, 2vw, 4rem);
-}
+} */
 
 .gallerytext img{
-	max-width: 20%; 
+	max-width: 5%; 
 }
 
 .img-box {
