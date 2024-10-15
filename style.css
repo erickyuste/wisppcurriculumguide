@@ -571,13 +571,6 @@ th {
 	text-decoration: none;
 }
 
-.class-header{
-	color: wheat;
-	font-weight: bold;
-	font-size: clamp(0.6rem, 1vw, 3rem);
-	text-decoration: none;
-}
-
 .subject{
 	font-weight: bold;
 	text-align: center;
@@ -586,6 +579,7 @@ th {
 
 .syllabus{
 	font-size: clamp(0.4rem, 1vw, 3rem);
+	color: wheat;
 }
 
 .subject h1{	
