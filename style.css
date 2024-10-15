@@ -564,7 +564,6 @@ th {
 	color: wheat;
 	font-weight: bold;
 	font-size: clamp(0.6rem, 1vw, 3rem);
-	align-items: center;
 	text-align: left;
     white-space: nowrap; 
     overflow: hidden; 
@@ -575,12 +574,6 @@ th {
 .class-header{
 	text-decoration: none;
 	color: wheat;
-}
-
-.header-main{
-	display: flex;
-	flex-direction: row;
-    justify-content: flex-start
 }
 
 .subject{
