@@ -575,6 +575,9 @@ th {
 .class-header{
 	text-decoration: none;
 	color: wheat;
+}
+
+.header-main{
 	display: flex;
 	flex-direction: row;
     justify-content: flex-start
