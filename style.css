@@ -571,6 +571,11 @@ th {
 	text-decoration: none;
 }
 
+.class-header{
+	text-decoration: none;
+	color: wheat;
+}
+
 
 .subject{
 	font-weight: bold;
