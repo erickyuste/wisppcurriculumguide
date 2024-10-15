@@ -575,14 +575,13 @@ th {
 .class-header{
 	display: flex;
 	flex-direction: row;
-	color: teal;
-	
 }
 
 .class-header h1{
 	color: wheat;
 	font-weight: bold;
 	font-size: clamp(0.6rem, 1vw, 3rem);
+	text-decoration: none;
 }
 
 .class-header img{
