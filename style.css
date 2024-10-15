@@ -572,13 +572,13 @@ th {
 	text-decoration: none;
 }
 
-.class-header a{
+.class-header{
 	text-decoration: none;
 	color: wheat;
 }
 
 .class-header img{
-	width: min(10%, 20%); 
+	width: min(5%, 10%); 
 }
 
 
