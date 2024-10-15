@@ -513,7 +513,7 @@ table {
     display: inline-block;
     cursor: pointer;
     color: #333;
-    font-size: clamp(0.6rem, 1vw, 3rem);
+    font-size: clamp(0.1rem, 1vw, 2rem);
     font-weight: bold;
     color: wheat;
 }
@@ -526,11 +526,11 @@ table {
 .tooltip::after {
     content: attr(data-tooltip);
     position: absolute;
-    bottom: 100%; /* Position above the icon */
+    bottom: 100%; 
     left: 50%;
     transform: translateX(-50%);
-    background-color: #333; /* Tooltip background color */
-    color: #fff; /* Tooltip text color */
+    background-color: #333; 
+    color: #fff;
     padding: 5px;
     border-radius: 4px;
     white-space: nowrap;
