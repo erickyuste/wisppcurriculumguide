@@ -584,6 +584,11 @@ th {
 	text-decoration: none;
 }
 
+.class-header a:hover {
+	color: white;
+	transform: scale(1.2);
+}
+
 .class-header img{
 	width: min(15%, 30%); 
 }
