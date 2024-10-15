@@ -282,7 +282,7 @@ nav svg{
 }
 
 .gallerytext img{
-	font-size: clamp(0.5rem, 1vw, 2rem);
+	width: 20%;
 }
 
 .img-box {
