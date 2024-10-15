@@ -519,7 +519,6 @@ table {
 }
 
 .tooltip:hover{
-	transform: scale(1);
 	transition: .5s ease-in-out;
 	cursor: pointer;
 }
