@@ -572,11 +572,6 @@ th {
 	text-decoration: none;
 }
 
-.class-header{
-	display: flex;
-	flex-direction: row;
-}
-
 .class-header a{
 	color: wheat;
 	font-weight: bold;
