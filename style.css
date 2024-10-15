@@ -79,6 +79,12 @@
 	justify-content: center;
 }
 
+.content-text a{
+	color: orange;
+	font-size: clamp(0.1rem, 4vw, 85rem);
+}
+
+
 .two-content h1, .three-content h1, .four-content h1, .five-content h1, .six-content h1{
 	font-weight: bold;
 	font-size: clamp(0.1rem, 4vw, 85rem);
@@ -98,10 +104,6 @@
 	width: 100%;
 }
 
-.content-text a{
-	color: orange;
-	font-size: clamp(0.5rem, 1.5vw, 2rem);
-}
 
 a:hover{
 	color: white;
