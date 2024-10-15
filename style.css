@@ -526,7 +526,8 @@ table {
 .tooltip::after {
     content: attr(data-tooltip);
     position: absolute;
-    left: 100%;
+    bottom: 100%; /* Position above the icon */
+    left: 50%;
     transform: translateX(-50%);
     background-color: #333; /* Tooltip background color */
     color: #fff; /* Tooltip text color */
