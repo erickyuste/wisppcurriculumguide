@@ -799,6 +799,10 @@ i:hover{
 		font-size: clamp(2rem, 4vw, 85rem);
 		text-align: center;
 	}
+
+	.three-content a, .four-content a, .five-content a, .six-content a{
+		font-size: clamp(2rem, 4vw, 85rem);
+	}
 	
 	.two img, .three img, .four img, .five img, .six img{
 		width: 80%;
