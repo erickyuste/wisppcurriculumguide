@@ -278,7 +278,7 @@ nav svg{
 }
 
 .gallerytext img{
-	width: min(7%, 10%); 
+	width: min(9%, 10%); 
 }
 
 .img-box {
@@ -576,7 +576,10 @@ th {
 	display: flex;
 	flex-direction: row;
 	color: teal;
-	height: auto;
+	white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+	text-decoration: none;
 }
 
 .class-header h1{
