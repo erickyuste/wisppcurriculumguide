@@ -564,12 +564,12 @@ th {
 	color: wheat;
 	font-weight: bold;
 	font-size: clamp(0.6rem, 1vw, 3rem);
-	align-items: center;
+	/* align-items: center;
 	text-align: left;
     white-space: nowrap; 
     overflow: hidden; 
     text-overflow: ellipsis;
-	text-decoration: none;
+	text-decoration: none; */
 }
 
 .class-header{
