@@ -278,7 +278,7 @@ nav svg{
 }
 
 .gallerytext img{
-	width: min(9%, 10%); 
+	max-width: 5%; 
 }
 
 .img-box {
@@ -572,6 +572,12 @@ th {
 	text-decoration: none;
 }
 
+.class-header{
+	text-decoration: none;
+	color: wheat;
+}
+
+
 .subject{
 	font-weight: bold;
 	text-align: center;
@@ -580,7 +586,6 @@ th {
 
 .syllabus{
 	font-size: clamp(0.4rem, 1vw, 3rem);
-	color: wheat;
 }
 
 .subject h1{	
