@@ -519,6 +519,7 @@ table {
 }
 
 .tooltip:hover{
+	transform: scale(1);
 	transition: .5s ease-in-out;
 	cursor: pointer;
 }
@@ -526,11 +527,11 @@ table {
 .tooltip::after {
     content: attr(data-tooltip);
     position: absolute;
-    bottom: 100%; 
+    bottom: 100%; /* Position above the icon */
     left: 50%;
     transform: translateX(-50%);
-    background-color: #333; 
-    color: #fff;
+    background-color: #333; /* Tooltip background color */
+    color: #fff; /* Tooltip text color */
     padding: 5px;
     border-radius: 4px;
     white-space: nowrap;
@@ -591,6 +592,7 @@ th {
 
 .tr-map:hover{
 	background-color: lightblue;
+	transform: scale(1.02);
 	box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
 	cursor: pointer;
 }
