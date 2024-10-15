@@ -572,23 +572,6 @@ th {
 	text-decoration: none;
 }
 
-.class-header a{
-	color: wheat;
-	font-weight: bold;
-	font-size: clamp(0.6rem, 1vw, 3rem);
-	text-decoration: none;
-}
-
-.class-header:hover {
-	color: white;
-	transform: scale(1.2);
-}
-
-.class-header img{
-	width: min(15%, 30%); 
-}
-
-
 .subject{
 	font-weight: bold;
 	text-align: center;
