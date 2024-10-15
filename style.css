@@ -576,8 +576,8 @@ th {
 	text-decoration: none;
 	color: wheat;
 	display: flex;
-    justify-content: space-between;
-    align-items: center;
+	flex-direction: row;
+    justify-content: flex-start
 }
 
 .subject{
