@@ -577,6 +577,10 @@ th {
 	color: wheat;
 }
 
+.class-header img{
+	width: min(5%, 10%); 
+}
+
 
 .subject{
 	font-weight: bold;
