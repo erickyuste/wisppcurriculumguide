@@ -584,7 +584,7 @@ th {
 	text-decoration: none;
 }
 
-.class-header a:hover {
+.class-header:hover {
 	color: white;
 	transform: scale(1.2);
 }
