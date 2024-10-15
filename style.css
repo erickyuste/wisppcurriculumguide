@@ -270,7 +270,7 @@ nav svg{
 
 .gallerytext h1{
 	text-align: center;
-	font-size: clamp(1rem, 2vw, 4rem);
+	font-size: clamp(1.5rem, 2vw, 4rem);
 	font-weight: bold;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -564,6 +564,7 @@ th {
 	color: wheat;
 	font-weight: bold;
 	font-size: clamp(0.6rem, 1vw, 3rem);
+	align-items: center;
 	text-align: left;
     white-space: nowrap; 
     overflow: hidden; 
@@ -572,9 +573,26 @@ th {
 }
 
 .class-header{
-	text-decoration: none;
-	color: wheat;
+	display: flex;
+	flex-direction: row;
 }
+
+.class-header a{
+	color: wheat;
+	font-weight: bold;
+	font-size: clamp(0.6rem, 1vw, 3rem);
+	text-decoration: none;
+}
+
+.class-header:hover {
+	color: white;
+	transform: scale(1.2);
+}
+
+.class-header img{
+	width: min(15%, 30%); 
+}
+
 
 .subject{
 	font-weight: bold;
