@@ -281,6 +281,10 @@ nav svg{
 	font-size: clamp(1.5rem, 2vw, 4rem);
 }
 
+.gallerytext img{
+	font-size: clamp(1.5rem, 2vw, 4rem);
+}
+
 .img-box {
     width: 100px;
     height: 500px;
@@ -720,6 +724,7 @@ i:hover{
 		display: inline-block;
 		width: 100%; 
 	}
+
 	
 	.img-box, .img-box2{
 		display: inline-block; 
