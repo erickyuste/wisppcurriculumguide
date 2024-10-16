@@ -578,7 +578,7 @@ th {
 }
 
 .table-gif{
-	width: 10%;
+	max-width: 5%;
 }
 
 
