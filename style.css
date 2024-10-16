@@ -581,10 +581,11 @@ th {
 	display: flex;
 	flex-direction: row;
 	width: 100%;
+	height: auto;
 }
 
 .table-header img{
-	max-width: 25%;
+	max-width: 20%;
 }
 
 
