@@ -278,7 +278,7 @@ nav svg{
 }
 
 .gallerytext img{
-	width: min(10%, 30%);
+	max-width: 30%;
 }
 
 .img-box {
