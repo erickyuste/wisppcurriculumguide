@@ -584,9 +584,9 @@ th {
 	height: auto;
 }
 
-.table-header h1 {
+/* .table-header h1 {
 	font-size: clamp(0.6rem, 1vw, 3rem);
-}
+} */
 
 .table-header img{
 	max-width: 40%;
