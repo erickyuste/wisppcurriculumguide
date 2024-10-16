@@ -123,16 +123,6 @@ nav{
 	border-bottom: solid 3px white;
 }
 
-.nav-gif{
-	position: relative;
-	bottom: 0;
-	left: 0;
-	width: 30%;
-	height: auto;
-	z-index: 1; /* Position above the background */
-	padding-top: 30px;
-}
-
 .links-container{
 	height: 100%;
 	width: 100%;
@@ -288,7 +278,7 @@ nav svg{
 }
 
 .gallerytext img{
-	width: min(10%, 15%);
+	width: min(7%, 10%);
 }
 
 .img-box {
