@@ -577,8 +577,13 @@ th {
 	color: wheat;
 }
 
+.table-header{
+	display: flex;
+	flex-direction: row;
+}
+
 .table-header img{
-	max-width: 15%;
+	max-width: 25%;
 }
 
 
