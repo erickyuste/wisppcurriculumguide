@@ -278,7 +278,7 @@ nav svg{
 }
 
 .gallerytext img{
-	width: clamp(3rem, 5vw, 10rem);
+	width: clamp(7rem, 10vw, 20rem);
 }
 
 .img-box {
