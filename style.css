@@ -523,6 +523,7 @@ table {
 .tooltip:hover{
 	transition: .5s ease-in-out;
 	cursor: pointer;
+	font-size: clamp(0.6rem, 1.5vw, 1rem);
 }
 
 .tooltip::after {
@@ -575,6 +576,7 @@ th {
 .class-header{
 	text-decoration: none;
 	color: wheat;
+	font-size: clamp(0.6rem, 1vw, 3rem);
 }
 
 .table-header{
