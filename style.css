@@ -336,7 +336,7 @@ nav svg{
 	background-size: cover;
 	background-position: center; 
 }
-.img-box:nth-child(9) { 
+/* .img-box:nth-child(9) { 
 	background: url(G7.jpg);
 	background-size: cover;
 	background-position: center;
@@ -345,7 +345,7 @@ nav svg{
 	background: url(G8.jpg);
 	background-size: cover;
 	background-position: center;
-}
+} */
 
 .img-box h3 {
     color: #fff;
@@ -425,7 +425,7 @@ nav svg{
 	background-size: cover;
 	background-position: center; 
 }
-.img-box2:nth-child(9) { 
+/* .img-box2:nth-child(9) { 
 	background: url(G7-2.jpg);
 	background-size: cover;
 	background-position: center;
@@ -434,7 +434,7 @@ nav svg{
 	background: url(G8-2.jpg);
 	background-size: cover;
 	background-position: center;
-}
+} */
 
 .img-box2 h3 {
     color: #fff;
